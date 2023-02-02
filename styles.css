@@ -1,0 +1,7 @@
+.bottom-container{
+  display: flex;
+}
+.sub-container{
+  flex-grow: 1;
+  
+}
